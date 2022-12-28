@@ -1,1 +1,1 @@
-# ChatGPT_AI_codex
+# αlphaX - bot
